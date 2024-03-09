@@ -1,4 +1,5 @@
-t:assets.txt:766:text/plain
+t:assets.txt:810:text/plain
+i:CGN.png:9370:image/png
 i:coloredspheres/sphere-00.png:8829:image/png
 i:coloredspheres/sphere-01.png:15322:image/png
 i:coloredspheres/sphere-02.png:16722:image/png
@@ -24,6 +25,8 @@ i:coloredspheres/sphere-21.png:11334:image/png
 i:coloredspheres/sphere-22.png:14549:image/png
 i:coloredspheres/sphere-23.png:14164:image/png
 i:libgdx.png:2458:image/png
+i:Separador - copia.png:4814:image/png
+i:Separador.png:4859:image/png
 i:sphere-23.png:14164:image/png
 i:XNVAbierta.png:1993:image/png
 i:XNVCerrada.png:2075:image/png
