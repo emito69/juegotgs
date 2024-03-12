@@ -1,4 +1,4 @@
-t:assets.txt:1010:text/plain
+t:assets.txt:1032:text/plain
 i:CGN.png:9370:image/png
 i:coloredspheres/sphere-00.png:8829:image/png
 i:coloredspheres/sphere-01.png:15322:image/png
@@ -29,7 +29,8 @@ i:iso-avatar-draft-copia(2).png:1279:image/png
 i:iso-avatar-draft1.png:902:image/png
 i:iso-avatar-draft2.png:905:image/png
 i:iso-avatar-draftCasco1.png:965:image/png
-i:iso-avatar-draftCasco11-copia.png:942:image/png
+i:iso-avatar-draftCasco11.png:942:image/png
+i:iso-avatar-draftCasco12.png:950:image/png
 i:iso-avatar-draftCasco2.png:968:image/png
 i:libgdx.png:2458:image/png
 i:Separador - copia.png:4814:image/png
