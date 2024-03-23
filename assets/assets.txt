@@ -1,4 +1,4 @@
-t:assets.txt:1032:text/plain
+t:assets.txt:1163:text/plain
 i:CGN.png:9370:image/png
 i:coloredspheres/sphere-00.png:8829:image/png
 i:coloredspheres/sphere-01.png:15322:image/png
@@ -24,6 +24,7 @@ i:coloredspheres/sphere-20.png:15626:image/png
 i:coloredspheres/sphere-21.png:11334:image/png
 i:coloredspheres/sphere-22.png:14549:image/png
 i:coloredspheres/sphere-23.png:14164:image/png
+i:cuadro_de_dialogo.png:1960:image/png
 i:iso-avatar-draft - copia ORIGINAL.png:1573:image/png
 i:iso-avatar-draft-copia(2).png:1279:image/png
 i:iso-avatar-draft1.png:902:image/png
@@ -35,7 +36,13 @@ i:iso-avatar-draftCasco2.png:968:image/png
 i:libgdx.png:2458:image/png
 i:Separador - copia.png:4814:image/png
 i:Separador.png:4859:image/png
+t:skin/default.fnt:11628:application/unknown
+i:skin/default.png:10653:image/png
+t:skin/uiskin.atlas:2924:application/unknown
+t:skin/uiskin.json:2432:application/json
+i:skin/uiskin.png:28299:image/png
 i:sphere-23.png:14164:image/png
+i:white_color_texture.png:157:image/png
 i:XNVAbierta.png:1993:image/png
 i:XNVCerrada.png:2075:image/png
 i:XNVsRegion.png:2869:image/png
